@@ -18,7 +18,6 @@ This isn't the first time I've changed careers. I'm fairly certain that I'll be 
 
 I would apply for any job because I know it's a numbers game. I'm excited to be under-qualified and have to prove myself because I've been over-qualified for so long and have had to dumb myself down for interviews or available jobs. This will be refreshing.
 
-Being around nervous people is probably the worst bit of it. Some folks seem nervous or falsely confident. Being around that type of energy has always been extremely difficult for me.
 
 ### Work
 - set up git repository
@@ -32,7 +31,8 @@ Being around nervous people is probably the worst bit of it. Some folks seem ner
 - Self-study
 - Contact new mentors
 - Setup meetings with new/old mentors
-- Setup coaching appointments with my mentees and give back
+- Setup coaching appointments with my mentees
+- Volunteer more in the community
 
 ### Setup/Installation Requirements
 * Read the readme
