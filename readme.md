@@ -38,6 +38,7 @@ I'd like to meet more people in the industry and speak to them about their posit
 - Reach out to new contacts on linkedin <br><img src="https://media.giphy.com/media/AqwQUI69rEuYM/giphy.gif" alt="cute puppy being cute" width="100">
 - begin portfolio in Angular
   - create Mustard favicon <br><img src="./img/mustard-fav.png" alt="mustard as a favicon" width="100">
+  - add images to portfolio site
 
 ### Setup/Installation Requirements
 * Read the readme
