@@ -39,6 +39,9 @@ I'd like to meet more people in the industry and speak to them about their posit
 - begin portfolio in Angular
   - create Mustard favicon <br><img src="./img/mustard-fav.png" alt="mustard as a favicon" width="100">
   - add images to portfolio site
+  - mobile Sketch layout
+  <br><img src="./img/mobile-port.png" alt="mustard as a favicon" width="100">
+
 
 ### Setup/Installation Requirements
 * Read the readme
