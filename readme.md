@@ -34,7 +34,7 @@ I'd like to meet more people in the industry and speak to them about their posit
   - [Some](https://youtu.be/KH57lIgwe2g) [Net](https://youtu.be/Az5J_EkhYCY) [Ninja](https://youtu.be/eZBTLsv2ktM) [Tutorials](https://youtu.be/uq7omoxwA7A)
   - [Articles on](https://scotch.io/tutorials/using-sass-with-the-angular-cli) [compiling Sass](https://medium.com/@brianhan/watch-compile-your-sass-with-npm-9ba2b878415b)
   - Update resume
-  - Reach out to new contacts on linkedin to schedule coffee meets
+  - Reach out to new contacts on linkedin <img src="https://media.giphy.com/media/AqwQUI69rEuYM/giphy.gif" alt="cute puppy being cute" width="100">
 
 ### Setup/Installation Requirements
 * Read the readme
@@ -52,7 +52,7 @@ _If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
 markdown
 
 
-<div style="text-align:center"><img src="https://i.gifer.com/HysY.gif" alt="spock with visor" width="300"></div>
+<!-- <div style="text-align:center"><img src="https://i.gifer.com/HysY.gif" alt="spock with visor" width="300"></div> -->
 
 ### License
 
