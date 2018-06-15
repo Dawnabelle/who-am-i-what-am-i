@@ -27,6 +27,12 @@ Being around nervous people is probably the worst bit of it. Some folks seem ner
 - add plan to readme
 - add work to readme
 
+### Plan
+- I would love to have a mentor so I could get one on one lessons and questions answered. This would be even better if I could go see this person during class hours when assignments are lagging and folks start slacking and changing the energy.
+- I already do self-study on the side, so it's just a matter of picking and choosing what is more important. Learning something new or going back to JavaScript.
+- I like finding jobs through connections. I would rather get my lessons accomplished in school and spend the evenings networking.
+- I'm a job coach already, so while I believe everyone can use a little help sometimes, I don't think I require extra attention in the job search arena. 
+
 ### Setup/Installation Requirements
 * Read the readme
 
