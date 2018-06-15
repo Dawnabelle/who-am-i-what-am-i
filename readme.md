@@ -1,6 +1,6 @@
 <!-- Twitter icon from https://github.com/carlsednaoui/gitsocial -->
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-## <span style="color: turquoise">Share Space</span>
+## <span style="color: turquoise">Who am I, What am I</span>
 
 #### _Epicodus Code Review_
 UI Week 4: Self-Improvement
@@ -9,6 +9,7 @@ UI Week 4: Self-Improvement
 _June 15th, 2018_
 
 ### Description
+A day spent working towards future career goals.
 
 ### Self-Assessment
 I generally feel as though I could use a one week refresher course on JavaScript more than I could use job search and interview prep. I would feel more comfortable relearning past lessons than participating in group week. Hammering in skills that I was only decent at before would be nice, white-boarding at this point would probably be me staring at a blank board.
@@ -31,7 +32,7 @@ Being around nervous people is probably the worst bit of it. Some folks seem ner
 - I would love to have a mentor so I could get one on one lessons and questions answered. This would be even better if I could go see this person during class hours when assignments are lagging and folks start slacking and changing the energy.
 - I already do self-study on the side, so it's just a matter of picking and choosing what is more important. Learning something new or going back to JavaScript.
 - I like finding jobs through connections. I would rather get my lessons accomplished in school and spend the evenings networking.
-- I'm a job coach already, so while I believe everyone can use a little help sometimes, I don't think I require extra attention in the job search arena. 
+- I'm a job coach already, so while I believe everyone can use a little help sometimes, I don't think I require extra attention in the job search arena.
 
 ### Setup/Installation Requirements
 * Read the readme
