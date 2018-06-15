@@ -29,10 +29,10 @@ Being around nervous people is probably the worst bit of it. Some folks seem ner
 - add work to readme
 
 ### Plan
-- I would love to have a mentor so I could get one on one lessons and questions answered. This would be even better if I could go see this person during class hours when assignments are lagging and folks start slacking and changing the energy.
-- I already do self-study on the side, so it's just a matter of picking and choosing what is more important. Learning something new or going back to JavaScript.
-- I like finding jobs through connections. I would rather get my lessons accomplished in school and spend the evenings networking.
-- I'm a job coach already, so while I believe everyone can use a little help sometimes, I don't think I require extra attention in the job search arena.
+- Self-study
+- Contact new mentors
+- Setup meetings with new/old mentors
+- Setup coaching appointments with my mentees and give back
 
 ### Setup/Installation Requirements
 * Read the readme
@@ -47,7 +47,7 @@ _There are many known :bug: at this time, this is a work in progress_
 _If you'd like to chat, please contact_ @dawnrparty _on_ ![alt text][1.1]
 
 ### Technologies Used
-
+markdown
 
 
 <div style="text-align:center"><img src="https://i.gifer.com/HysY.gif" alt="spock with visor" width="300"></div>
